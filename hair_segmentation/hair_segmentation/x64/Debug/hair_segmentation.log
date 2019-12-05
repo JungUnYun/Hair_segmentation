@@ -1,0 +1,12 @@
+﻿  maxflow.cpp
+  main.cpp
+c:\users\juyun\desktop\정언\2017\visual studio 2015\projects\hair_segmentation\hair_segmentation\main.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  graph.cpp
+  GrabCut.cpp
+c:\users\juyun\desktop\정언\2017\visual studio 2015\projects\hair_segmentation\hair_segmentation\gmm.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\opencv.hpp': No such file or directory
+  GMM.cpp
+c:\users\juyun\desktop\정언\2017\visual studio 2015\projects\hair_segmentation\hair_segmentation\gmm.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\opencv.hpp': No such file or directory
+  GCApplication.cpp
+c:\users\juyun\desktop\정언\2017\visual studio 2015\projects\hair_segmentation\hair_segmentation\gcapplication.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/highgui/highgui.hpp': No such file or directory
+  CutGraph.cpp
+  코드를 생성하고 있습니다...
