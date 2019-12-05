@@ -9,5 +9,5 @@ Hair segmentation basoed on grab-cut. Grab-cut will extract foregound in images.
 4. label foreground or background each pixel
 
 ## Results
-![HSR](./img/segmentation.gif)
+![HSR](./img/segmentation_.gif)
 ![HSR](./img/results.png)
