@@ -11,3 +11,7 @@ Hair segmentation basoed on grab-cut. Grab-cut will extract foregound in images.
 ## Results
 ![HSR](./img/segmentation_.gif)
 ![HSR](./img/results.png)
+
+## Prerequisites
+* C++
+* OpenCV
